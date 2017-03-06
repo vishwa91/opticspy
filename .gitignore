@@ -5,6 +5,10 @@
 # Icon must end with two \r
 Icon
 
+# VIM temporary files
+*.swp
+*.swo
+
 # Thumbnails
 ._*
 

@@ -1,7 +1,9 @@
 
 #opticspy TASK
-
-- [ ] Polynomials 
+- [ ] Linear diffraction grating
+ 	[ ] Transmissive grating
+	[ ] Reflective grating
+- [ ] Polynomials
   - [ ] Different aperture shape
   - [ ] Different polynomials
   - [ ] PSF
